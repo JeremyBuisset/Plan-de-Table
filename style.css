@@ -1,0 +1,87 @@
+body{
+    background: url("Images/TextureSol.jpg");
+}
+
+.Rang1{
+    display: inline-block;
+    width: 400px;
+    margin-top: 20px;
+    position: relative;
+
+}
+
+
+.Rang2 {
+    width: 700px;
+    margin-top: 350px;
+    position: relative;
+}
+
+.table{
+    display: inline-block;
+    background: sandybrown;
+    height:130px;
+    width:200px;
+    border: solid black 1px;
+    top: 10px;
+    position: absolute;
+
+}
+
+.nom1{
+     position: absolute;
+     width:75px;
+     height: 50px;
+     top: -20px;
+     left: 20px;
+     border-top: solid black 2px;
+     border-bottom: solid black 2px;
+     background: brown;
+}
+
+
+.nom2{
+    position: absolute;
+    width:75px;
+    height: 50px;
+    top: -20px;
+    left: 100px;
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+    background: brown;
+}
+
+
+.nom3{
+    position: absolute;
+    width:75px;
+    height: 50px;
+    top: 100px;
+    left: 20px;
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+    background: brown;
+}
+
+.nom4{
+    position: absolute;
+    width:75px;
+    height: 50px;
+    top: 100px;
+    left: 100px;
+    border-top: solid black 2px;
+    border-bottom: solid black 2px;
+    background: brown;
+}
+
+
+div{
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+    vertical-align: middle;
+    color: #c5c5c5;
+}
+span{
+    line-height: 46px;
+}
